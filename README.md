@@ -1,3 +1,3 @@
 # ChiamakaNER
-NER work in progress
+NER work in progress.
 Getting my hands Dirty!
